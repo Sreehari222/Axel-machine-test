@@ -25,7 +25,7 @@ My Lead Management application built using Laravel 12, Inertia.js, React, TypeSc
 - Inertia.js
 - MySQL
 - Vite
-- Node.js and npm
+- Node.js v24.14.0 and npm 10.5.0
 
 ## Installation
 
