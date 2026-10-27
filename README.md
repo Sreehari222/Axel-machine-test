@@ -97,8 +97,11 @@ The `leads` table contains:
 - created_at
 - updated_at
 
+
+
 ## Validation
 
+For the Authentication i used Laravel Breeze .
 Laravel Form Requests validate lead creation and updates. Validation errors are displayed through Inertia's `useForm` helper.
 
 ## Time Taken
