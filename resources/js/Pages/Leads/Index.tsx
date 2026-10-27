@@ -331,10 +331,6 @@ export default function Index({ leads, filters, statuses }: Props) {
                 {/* Header */}
                 <header style={s.header}>
                     <h1 style={s.title}>Lead List</h1>
-                    <p style={s.subtitle}>
-                        View and manage your business leads in one place.
-                        Search, filter and keep track of every contact.
-                    </p>
                 </header>
 
                 {/* Toolbar */}
